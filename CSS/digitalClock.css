@@ -1,0 +1,19 @@
+.clock{
+    background: #333333;
+    width: 230px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    height: 60px;   
+}
+
+.clock-time,
+
+.clock-ampm{
+    color:white;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin: auto;
+    
+}
